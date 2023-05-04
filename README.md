@@ -150,7 +150,7 @@ specifically in `.../esp8266/libraries/SoftwareSerial` when using a Github
 repository clone in your Arduino sketchbook hardware directory.
 This supersedes any version of EspSoftwareSerial installed for instance via
 the Arduino library manager, it is not required to install EspSoftwareSerial
-for the ESP8266 separately at all, but doing so has ill effect.
+for the ESP8266 separately at all, but doing so has nill effect.
 
 The responsible maintainer of the esp8266 repository has kindly shared the
 following command line instructions to use, if one wishes to manually
